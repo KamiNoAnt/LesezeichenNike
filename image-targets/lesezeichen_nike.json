@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 1066,
+    "left": 0,
+    "width": 860,
+    "height": 1147,
+    "isRotated": false,
+    "originalWidth": 860,
+    "originalHeight": 2671
+  },
+  "imagePath": "image-targets/lesezeichen_nike_luminance.png",
+  "metadata": null,
+  "name": "lesezeichen_nike",
+  "resources": {
+    "originalImage": "lesezeichen_nike_original.png",
+    "croppedImage": "lesezeichen_nike_cropped.png",
+    "thumbnailImage": "lesezeichen_nike_thumbnail.png",
+    "luminanceImage": "lesezeichen_nike_luminance.png"
+  },
+  "created": 1795179604580,
+  "updated": 1795180673848
+}
